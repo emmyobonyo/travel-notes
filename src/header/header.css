@@ -1,0 +1,26 @@
+header {
+  background-color: #F55A5A;
+  height: 55px;
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 9%;
+  margin: auto;
+}
+
+.header-image {
+  width: 24px;
+  height: 24px;
+}
+
+.header-paragraph {
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+}
