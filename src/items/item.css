@@ -1,0 +1,45 @@
+.section-component {
+  display: flex;
+  width: 70%;
+  margin: 18px auto;
+  align-items: center;
+}
+
+.section-location {
+  width: 100%;
+}
+
+.mount-fuji {
+  margin-right: 20px;
+}
+
+.section-location-top {
+  display: flex;
+  align-items: center;
+}
+
+.location-icon {
+  margin-right: 4px;
+}
+
+.country {
+  width: 40px;
+  height: 10px;
+  margin-right: 12px;
+  font-size: 11px;
+  line-height: 12px;
+}
+
+.google-location {
+  height: 12px;
+  font-size: 11px;
+  line-height: 12px;
+  color: #918E9B;
+}
+
+.image {
+  margin-top: 4px;
+  width: 326px;
+  font-size: 25px;
+  line-height: 30px;
+}
