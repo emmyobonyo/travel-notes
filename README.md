@@ -29,7 +29,7 @@ $ npm start
 - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Original Figma file
-- https://www.figma.com/file/35Z4xK9iyTErNYfkenMAhx/Airbnb-Experiences-(Copy)
+- https://www.figma.com/file/YhtX4VSXpgUB4y1HnAeqBq/Travel-Journal-(Copy)?node-id=2%3A2
 
 ## Authors
 👤 **Emmanuel Obonyo**
