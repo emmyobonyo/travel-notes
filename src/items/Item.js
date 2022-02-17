@@ -10,7 +10,7 @@ function Item({ data }) {
         <div className="section-location-top">
           <AddLocationIcon sx={{ color: 'red' }} className="location-icon"/>
           <p className="country">{data.location}</p>
-          <a href={data.google} className="google-location">View on Google Maps</a>
+          <a href={data.googleMapsUrl} className="google-location">View on Google Maps</a>
         </div>
         <h1 className="image">{data.title}</h1>
         <p className="date"><b>{data.startDate} - {data.endDate}</b></p>
