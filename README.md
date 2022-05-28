@@ -16,7 +16,7 @@
 ```
 $ git clone https://github.com/emmyobonyo/travel-notes.git
 $ cd travel-notes
-$ git checkout items
+$ git checkout main
 ```
 
 ## Run Project
